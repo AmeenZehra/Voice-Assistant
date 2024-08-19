@@ -26,7 +26,6 @@ To run Amara, you'll need to have Python installed on your system along with the
 
 Here are some commands you can use with Amara:
 
-```markdown
 - **Greetings**: "Hello", "Hi"
 - **Identity**: "What is your name?", "Who created you?"
 - **Time and Date**: "What's the time?", "What's the date today?", "What day is it?"
